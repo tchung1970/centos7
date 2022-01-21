@@ -1,1 +1,1 @@
-# centos7
+centos7 docker image built from GitHub
